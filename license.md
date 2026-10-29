@@ -170,4 +170,4 @@ running the loader without administrator rights, or from another overlay
 
 ---
 
-*nba-2k24-companion-pack · Updated 2026-10-28 · Shared under the MIT License*
+*nba-2k24-companion-pack · Updated 2026-10-29 · Shared under the MIT License*
